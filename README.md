@@ -19,4 +19,5 @@ My Data Structures and Algorithms practice solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/nandeeswarreddy0225/DSA-Practice/tree/main/0263-ugly-number/) | Easy |
+| [2235-add-two-integers](https://github.com/nandeeswarreddy0225/DSA-Practice/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
